@@ -1,0 +1,6 @@
+crewai
+requests
+openai
+numpy
+pandas
+
